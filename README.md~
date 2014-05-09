@@ -15,9 +15,6 @@ script and follow the instructions to generate a file and next
 use the script
 cryptstorage_mount.sh 
 to mount this file as a regular volume.
-You can also use the
-cryptdevice_create.sh
-script to create an encrypted volume (eg. usb pen or sd card or hd partition)
 
 You can copy your volume to an external disk or hide as you
 whish! Remember that this is a volume but in fact you can
