@@ -5,7 +5,7 @@ Create an encrypted volume contained in a regulr file. It also mount and unmount
 
 INFO
 CryptStorage is a couple of scripts by Giovanni Santostefano
-(http://letteredalcyberspazio.wordpress.com) that allows the
+(http://twocentssecurity.wordpress.com) that allows the
 user to create, mount and unmount an encrypted volume
 stored in a common file with LUKS specifics!
 
